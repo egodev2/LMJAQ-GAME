@@ -1,0 +1,6 @@
+Objeto TextoIntrodutorio
+{
+	IU : [Texto]
+	Conteudo : "Julia, ao chegar no seu lar, se depara com um cheiro de ovo podre na cozinha. A caixa de energia fica fora de case."
+	Posicao : 250 500
+}

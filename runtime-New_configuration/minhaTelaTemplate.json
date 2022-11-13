@@ -1,0 +1,17 @@
+{"packages" : ["models.objetos.BotaoIniciar","models.objetos.BotaoSair","models.objetos.Logo"],
+	"class":
+	{
+		"type" : "Tela",
+		"name" : "minhaTela",
+		"properties" : 
+		{
+			"HashKeys" : [],
+			"HashValues" : []
+		},
+		"references" : 
+		{
+			"Objetos" : ["BotaoSair"],
+			"Recursos" : ["textoIniciar","Logo"]
+		}
+	}
+}

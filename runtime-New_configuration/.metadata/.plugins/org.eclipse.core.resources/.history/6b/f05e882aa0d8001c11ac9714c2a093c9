@@ -1,0 +1,6 @@
+Objeto BotaoAlternativa2
+{
+	IU : [Botao]
+	Texto : Sendo mordida por um cachorro infectado
+	Posicao : 100 200
+}

@@ -1,0 +1,16 @@
+package models.objetos.TextoDoEnunciado
+package models.objetos.BotaoAlternativa1
+package models.objetos.BotaoAtlernativa2
+package models.objetos.BotaoAtlernativa3
+package models.objetos.BotaoAtlernativa4
+
+Questao TelaQ1
+{
+	Enunciado : TextoDoEnunciado
+	FormatoQuiz : multiplaEscolha
+	Alternativa : Tendo contato direto com outra pessoa ja infectada
+	Alternativa : Sendo mordida por um cachorro infectado
+	Alternativa : BotaoAlternativa3
+	Alternativa : BotaoAlternativa4	
+	Resposta : BotaoAlternativa2
+}

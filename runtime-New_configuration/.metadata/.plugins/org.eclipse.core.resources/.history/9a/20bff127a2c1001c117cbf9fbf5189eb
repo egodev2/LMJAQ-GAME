@@ -1,0 +1,8 @@
+Tela TelaQ1
+{
+	Objeto : TextoDoEnunciado
+	Objeto : BotaoAtlernativa1
+	Objeto : BotaoAlternativa2
+	Objeto : BotaoAlternativa3
+	Objeto : BotaoAlterantiva4	
+}

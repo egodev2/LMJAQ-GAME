@@ -1,0 +1,6 @@
+Objeto TextoIntrodutorio
+{
+	IU : [Texto]
+	Conteudo : $ abc def ghi $
+	Posicao : 250 500
+}

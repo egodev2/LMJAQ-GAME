@@ -1,0 +1,6 @@
+Objeto TextoIntrodutorio
+{
+	IU : [Texto]
+	Conteudo : $abcdefgha$
+	Posicao : 250 500
+}

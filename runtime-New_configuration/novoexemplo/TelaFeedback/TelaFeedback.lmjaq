@@ -1,0 +1,5 @@
+Tela TelaFeedback 
+{
+	Objeto : TextoFeedback
+	Objeto : ImagemFeedback	
+}

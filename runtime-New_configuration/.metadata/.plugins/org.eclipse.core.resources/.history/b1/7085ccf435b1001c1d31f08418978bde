@@ -1,0 +1,10 @@
+package models.objetos.BotaoIniciar
+package models.objetos.BotaoSair
+package models.objetos.Logo
+
+Tela minhaTela
+{
+	Objeto : BotaoIniciar
+	Objeto : BotaoSair
+	Objeto : Logo
+}

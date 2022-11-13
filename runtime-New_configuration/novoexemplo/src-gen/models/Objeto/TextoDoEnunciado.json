@@ -1,0 +1,22 @@
+{"packages" : [],	"class":
+	{
+		"type" : "Objeto",
+		"name" : "TextoDoEnunciado",
+		"properties" : 
+		{
+			"HashKeys" : [
+			"IU",
+			"conteudo",
+			"X","Y"
+					],
+			"HashValues" : [
+			"Texto",
+			"Antes de pedir ajuda, Julia sente que precisa fazer algo. Qual ação ela deve tomar?",
+			"250","500"
+					]
+		},
+		"references" : 
+		{
+		}
+	}
+}

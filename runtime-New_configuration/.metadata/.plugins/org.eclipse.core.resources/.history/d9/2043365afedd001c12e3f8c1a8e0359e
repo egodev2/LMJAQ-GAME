@@ -1,0 +1,6 @@
+Objeto TextoFeedback
+{
+	IU : [Texto]
+	Conteudo : "Antes de pedir ajuda, Julia sente que precisa fazer algo. Qual ação ela deve tomar?"
+	Posicao : 250 500
+}

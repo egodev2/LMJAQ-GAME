@@ -1,0 +1,25 @@
+{"packages" : ["models.objetos.TextoDoEnunciado","models.objetos.BotaoAlternativa1","models.objetos.BotaoAtlernativa2","models.objetos.BotaoAtlernativa3","models.objetos.BotaoAtlernativa4"],
+	"class":
+	{
+		"type" : "Questao",
+		"name" : "TelaQ1",
+		"properties" : 
+		{
+			"HashKeys" : [
+			"Enunciado",
+			"FormatoQuiz",
+			"Resposta"
+					],
+			"HashValues" : [
+			"Como uma pessoa saudavel e infectada",
+			"multiplaEscolha",
+			"Bebendo agua contaminada"
+					]
+		},
+		"references" : 
+		{
+			"Alternativas" : ["BotaoAlternativa1","BotaoAlternativa2","BotaoAlternativa3","BotaoAlternativa4"
+			]
+		}
+	}
+}

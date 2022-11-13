@@ -1,0 +1,22 @@
+{"packages" : [],	"class":
+	{
+		"type" : "Objeto",
+		"name" : "ImagemFeedback",
+		"properties" : 
+		{
+			"HashKeys" : [
+			"IU",
+			"X","Y",
+			"W","H"
+					],
+			"HashValues" : [
+			"Imagem",
+			"350","350",
+			"200","100"
+					]
+		},
+		"references" : 
+		{
+		}
+	}
+}

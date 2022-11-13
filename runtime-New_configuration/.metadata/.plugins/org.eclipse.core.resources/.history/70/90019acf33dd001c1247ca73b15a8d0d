@@ -1,0 +1,6 @@
+Objeto TextoIntrodutorio
+{
+	IU : [Texto]
+	Conteudo : "" 
+	Posicao : 250 500
+}

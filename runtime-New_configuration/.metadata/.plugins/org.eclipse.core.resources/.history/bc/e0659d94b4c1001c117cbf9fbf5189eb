@@ -1,0 +1,14 @@
+package models.objetos.TextoDoEnunciado
+package models.objetos.BotaoAtlernativa1
+package models.objetos.BotaoAtlernativa2
+package models.objetos.BotaoAtlernativa3
+package models.objetos.BotaoAtlernativa4
+
+Tela TelaQ1
+{
+	Objeto : TextoDoEnunciado
+	Objeto : BotaoAlternativa1
+	Objeto : BotaoAlternativa2
+	Objeto : BotaoAlternativa3
+	Objeto : BotaoAlterantiva4	
+}

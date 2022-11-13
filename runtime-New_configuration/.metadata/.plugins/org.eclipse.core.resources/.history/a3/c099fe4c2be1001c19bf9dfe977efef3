@@ -1,0 +1,4 @@
+AoClicar AoClicarSair
+{
+	EventoSimples : [proximaTela] EXIT
+}

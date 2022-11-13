@@ -1,0 +1,20 @@
+{"packages" : [],	"class":
+	{
+		"type" : "Item",
+		"name" : "Eletrecidade",
+		"properties" : 
+		{
+			"HashKeys" : [
+			"Efeito",
+			"EstadosAfetados"
+					],
+			"HashValues" : [
+			"[Bloqueia]",
+			"x y z"
+					]
+		},
+		"references" : 
+		{
+		}
+	}
+}

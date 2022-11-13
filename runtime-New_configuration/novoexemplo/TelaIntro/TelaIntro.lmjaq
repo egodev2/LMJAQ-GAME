@@ -1,0 +1,5 @@
+Tela TelaIntro
+{
+	Objeto : TextoIntrodutorio
+	Objeto : ImagemIntrodutoria
+}

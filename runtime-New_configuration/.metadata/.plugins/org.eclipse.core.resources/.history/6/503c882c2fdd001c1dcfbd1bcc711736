@@ -1,0 +1,6 @@
+Objeto TextoIntrodutorio
+{
+	IU : [Texto]
+	Conteudo : $ aaaaa bbbb ccc  $
+	Posicao : 250 500
+}

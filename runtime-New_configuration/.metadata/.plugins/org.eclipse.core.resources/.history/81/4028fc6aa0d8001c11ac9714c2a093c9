@@ -1,0 +1,6 @@
+Alternativa BotaoAlternativa3
+{
+	IU : [Botao]
+	Texto : Sendo picada por um vetor mosquito palha infectado
+	Posicao : 100 300
+}

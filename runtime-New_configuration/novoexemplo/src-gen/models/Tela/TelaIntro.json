@@ -1,0 +1,16 @@
+{"packages" : [],	"class":
+	{
+		"type" : "Tela",
+		"name" : "TelaIntro",
+		"properties" : 
+		{
+			"HashKeys" : [],
+			"HashValues" : []
+		},
+		"references" : 
+		{
+			"Objetos" : ["TextoIntrodutorio","ImagemIntrodutoria"
+			]
+		}
+	}
+}

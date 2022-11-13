@@ -1,0 +1,6 @@
+Objeto BotaoSair
+{
+	IU : [Botao]
+	Conteudo  : "Sair"
+	Posicao : 350 150
+}

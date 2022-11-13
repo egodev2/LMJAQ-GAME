@@ -1,0 +1,4 @@
+AoClicar AoClicarTelaQ1
+{
+	EventoSimples : [proximaTela] TelaQ2
+}

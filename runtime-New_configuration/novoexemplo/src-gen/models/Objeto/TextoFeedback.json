@@ -1,0 +1,22 @@
+{"packages" : [],	"class":
+	{
+		"type" : "Objeto",
+		"name" : "TextoFeedback",
+		"properties" : 
+		{
+			"HashKeys" : [
+			"IU",
+			"conteudo",
+			"X","Y"
+					],
+			"HashValues" : [
+			"Texto",
+			"PLACEHOLDER",
+			"250","500"
+					]
+		},
+		"references" : 
+		{
+		}
+	}
+}

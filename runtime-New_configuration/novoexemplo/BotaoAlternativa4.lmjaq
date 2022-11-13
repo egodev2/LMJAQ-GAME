@@ -1,0 +1,8 @@
+Alternativa BotaoAlternativa4
+{
+	IU : [Botao]
+	Conteudo : "Acender a luz"
+	Posicao: 100 400
+	AoClicar : TelaFeedback
+	AoClicar : BAD
+}

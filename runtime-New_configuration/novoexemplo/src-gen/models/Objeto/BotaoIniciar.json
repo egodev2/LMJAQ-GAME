@@ -1,0 +1,25 @@
+{"packages" : ["models.componentes.AoClicarNovoJogo"],
+	"class":
+	{
+		"type" : "Objeto",
+		"name" : "BotaoIniciar",
+		"properties" : 
+		{
+			"HashKeys" : [
+			"IU",
+			"conteudo",
+			"X","Y"
+					],
+			"HashValues" : [
+			"Botao",
+			"Novo jogo",
+			"350","250"
+					]
+		},
+		"references" : 
+		{
+			"Componentes" : ["AoClicarNovoJogo"
+			]
+		}
+	}
+}

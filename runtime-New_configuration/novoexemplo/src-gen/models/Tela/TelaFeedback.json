@@ -1,0 +1,16 @@
+{"packages" : [],	"class":
+	{
+		"type" : "Tela",
+		"name" : "TelaFeedback",
+		"properties" : 
+		{
+			"HashKeys" : [],
+			"HashValues" : []
+		},
+		"references" : 
+		{
+			"Objetos" : ["TextoFeedback","ImagemFeedback"
+			]
+		}
+	}
+}

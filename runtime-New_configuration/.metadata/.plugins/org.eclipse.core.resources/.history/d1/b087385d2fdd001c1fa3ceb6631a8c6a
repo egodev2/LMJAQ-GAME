@@ -1,0 +1,6 @@
+Objeto TextoIntrodutorio
+{
+	IU : [Texto]
+	Conteudo : $ Ao chegar em casa Julia se depara com um cheiro de ovo podre na cozinha $
+	Posicao : 250 500
+}

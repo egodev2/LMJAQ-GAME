@@ -1,0 +1,18 @@
+{"packages" : [],	"class":
+	{
+		"type" : "AoClicar",
+		"name" : "AoClicarNovoJogo",
+		"properties" : 
+		{
+			"HashKeys" : [
+			"Evento"
+					],
+			"HashValues" : [
+			"[proximaTela]","TelaIntro"
+					]
+		},
+		"references" : 
+		{
+		}
+	}
+}

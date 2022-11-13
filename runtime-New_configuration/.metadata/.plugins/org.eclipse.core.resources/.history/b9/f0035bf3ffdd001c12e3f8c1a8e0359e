@@ -1,0 +1,7 @@
+Estado NOR1
+{
+	ProximoEstados : END BAD NOE00
+	Conteudo : "SEU BOM"
+	Conteudo : "SEU RUIM"
+	Conteudo: : "SEU NEUTRO"
+}

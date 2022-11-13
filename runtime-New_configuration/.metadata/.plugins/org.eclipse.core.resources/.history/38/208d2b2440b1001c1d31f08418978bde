@@ -1,0 +1,5 @@
+Objeto BotaoIniciar
+{
+	Posicao : 400 400
+	Texto : textoIniciar
+}

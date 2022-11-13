@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;novoexemplo/fonte.lmjaq&apos; to &apos;TelaInicial.lmjaq&apos;" description="Rename resource &apos;fonte.lmjaq&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="fonte.lmjaq" name="TelaInicial.lmjaq" stamp="1649710985225" updateReferences="true"/>
+</session>

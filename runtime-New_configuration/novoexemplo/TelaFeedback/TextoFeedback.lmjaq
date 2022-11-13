@@ -1,0 +1,6 @@
+Objeto TextoFeedback
+{
+	IU : [Texto]
+	Conteudo : "PLACEHOLDER"
+	Posicao : 250 500
+}

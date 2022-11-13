@@ -1,0 +1,9 @@
+package models.componentes.AoClicarTela01
+
+Objeto BotaoIniciar
+{
+    IU : [Botao]
+	Conteudo : "Novo jogo"
+	Posicao : 350 250
+	AoClicar : AoClicarTelaQ1
+}

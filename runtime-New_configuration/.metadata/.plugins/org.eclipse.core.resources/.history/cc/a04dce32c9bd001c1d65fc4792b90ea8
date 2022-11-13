@@ -1,0 +1,6 @@
+Objeto BotaoIniciar
+{
+    IU : Botão
+	Texto : Novo Jogo
+	Posicao : 300 300
+}

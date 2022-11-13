@@ -1,0 +1,5 @@
+Estado NOR1
+{
+	ProximoEstados : END BAD NOE00
+	Feedback :
+}

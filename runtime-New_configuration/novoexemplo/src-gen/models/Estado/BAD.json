@@ -1,0 +1,18 @@
+{"packages" : [],	"class":
+	{
+		"type" : "Estado",
+		"name" : "BAD",
+		"properties" : 
+		{
+			"HashKeys" : [
+			"EstadoFinal"
+					],
+			"HashValues" : [
+			"True"
+					]
+		},
+		"references" : 
+		{
+		}
+	}
+}

@@ -1,0 +1,8 @@
+Alternativa BotaoAlternativa2
+{
+	IU : [Botao]
+	Conteudo : Desligar a valvula
+	Posicao : 100 200
+	AoClicar : TelaFeedback
+	AoClicar : NOR1
+}

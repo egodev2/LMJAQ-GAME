@@ -1,0 +1,4 @@
+AoClicar AoClicarContinuarIntro
+{
+	EventoSimples : [proximaTela] TelaQ1	
+}

@@ -1,0 +1,6 @@
+Alternativa BotaoAlternativa4
+{
+	IU : [Botao]
+	Texto : Bebendo agua contaminada
+	Posicao: 100 400
+}

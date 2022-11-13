@@ -1,0 +1,5 @@
+Objeto BotaoAlternativa1
+{
+	IU : [Botao]
+	Texto : Tendo contato direto com outra pessoa ja infectada
+}

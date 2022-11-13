@@ -1,0 +1,8 @@
+Alternativa BotaoAlternativa3
+{
+	IU : [Botao]
+	Conteudo : "Acender um fósforo"
+	Posicao : 100 300
+	AoClicar : TelaFeedback
+	AoClicar : BAD
+}

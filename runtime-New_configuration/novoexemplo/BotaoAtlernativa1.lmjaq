@@ -1,0 +1,8 @@
+Alternativa BotaoAlternativa1
+{
+	IU : [Botao]
+	Conteudo : "Desligar a chave geral"
+	Posicao : 100 100
+	AoClicar : TelaFeedback
+	AoClicar : NOE000
+}

@@ -1,0 +1,24 @@
+{"packages" : [],	"class":
+	{
+		"type" : "Alternativa",
+		"name" : "BotaoAlternativa2",
+		"properties" : 
+		{
+			"HashKeys" : [
+			"IU",
+			"conteudo",
+			"X","Y"
+					],
+			"HashValues" : [
+			"Botao",
+			"Desligar a válvula",
+			"100","200"
+					]
+		},
+		"references" : 
+		{
+			"Componentes" : ["TelaFeedback","NOR1"
+			]
+		}
+	}
+}

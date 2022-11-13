@@ -1,0 +1,6 @@
+Alternativa BotaoAlternativa1
+{
+	IU : [Botao]
+	Texto : Tendo contato direto com outra pessoa ja infectada
+	Posicao : 100 100
+}

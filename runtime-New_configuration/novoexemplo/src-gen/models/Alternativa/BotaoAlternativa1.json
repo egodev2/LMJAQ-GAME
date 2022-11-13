@@ -1,0 +1,24 @@
+{"packages" : [],	"class":
+	{
+		"type" : "Alternativa",
+		"name" : "BotaoAlternativa1",
+		"properties" : 
+		{
+			"HashKeys" : [
+			"IU",
+			"conteudo",
+			"X","Y"
+					],
+			"HashValues" : [
+			"Botao",
+			"Desligar a chave geral",
+			"100","100"
+					]
+		},
+		"references" : 
+		{
+			"Componentes" : ["TelaFeedback","NOE000"
+			]
+		}
+	}
+}

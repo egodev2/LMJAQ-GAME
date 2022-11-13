@@ -1,0 +1,6 @@
+Objeto BotaoSair
+{
+	IU : Botão
+	Texto : Sair
+	Posicao : 400 200
+}

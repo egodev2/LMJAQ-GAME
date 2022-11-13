@@ -1,0 +1,7 @@
+Objeto BotaoSair
+{
+	IU : [Botao]
+	Conteudo  : "Sair"
+	Posicao : 350 150
+	AoClicar : AoClicarSair
+}

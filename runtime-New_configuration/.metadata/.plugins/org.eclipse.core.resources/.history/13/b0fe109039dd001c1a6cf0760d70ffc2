@@ -1,0 +1,6 @@
+Objeto TextoDoEnunciado
+{
+	IU : [Texto]
+	Conteudo : "Como uma pessoa saudavel e infectada"
+	Posicao : 250 500
+}

@@ -1,0 +1,7 @@
+Objeto BotaoIniciar
+{
+    IU : [Botao]
+	Texto : NovoJogo
+	Posicao : 350 250
+	AoClicar : AoClicarTelaQ1
+}

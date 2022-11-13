@@ -1,0 +1,5 @@
+Estado INI000
+{
+	EstadoInicial : True
+	ProximoEstados : NOR1
+}

@@ -1,0 +1,6 @@
+Objeto ImagemFeedback
+{
+	IU : [Imagem]
+	Posicao : 350 350
+	Tamanho : 200 100
+}

@@ -1,0 +1,18 @@
+{"packages" : [],	"class":
+	{
+		"type" : "AoClicar",
+		"name" : "AoClicarContinuarIntro",
+		"properties" : 
+		{
+			"HashKeys" : [
+			"Evento"
+					],
+			"HashValues" : [
+			"[proximaTela]","TelaQ1"
+					]
+		},
+		"references" : 
+		{
+		}
+	}
+}

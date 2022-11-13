@@ -1,0 +1,24 @@
+{"packages" : [],	"class":
+	{
+		"type" : "Alternativa",
+		"name" : "BotaoAlternativa4",
+		"properties" : 
+		{
+			"HashKeys" : [
+			"IU",
+			"conteudo",
+			"X","Y"
+					],
+			"HashValues" : [
+			"Botao",
+			"Acender a luz",
+			"100","400"
+					]
+		},
+		"references" : 
+		{
+			"Componentes" : ["TelaFeedback","BAD"
+			]
+		}
+	}
+}

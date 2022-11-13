@@ -1,0 +1,18 @@
+{"packages" : [],	"class":
+	{
+		"type" : "AoClicar",
+		"name" : "AoClicarSair",
+		"properties" : 
+		{
+			"HashKeys" : [
+			"Evento"
+					],
+			"HashValues" : [
+			"[proximaTela]","EXIT"
+					]
+		},
+		"references" : 
+		{
+		}
+	}
+}

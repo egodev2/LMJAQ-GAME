@@ -1,0 +1,4 @@
+Estado NOE00
+{
+	ProximoEstados : END BAD NOE01
+}

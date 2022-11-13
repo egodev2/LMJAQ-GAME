@@ -1,0 +1,24 @@
+{"packages" : [],	"class":
+	{
+		"type" : "Alternativa",
+		"name" : "BotaoAlternativa3",
+		"properties" : 
+		{
+			"HashKeys" : [
+			"IU",
+			"conteudo",
+			"X","Y"
+					],
+			"HashValues" : [
+			"Botao",
+			"Acender um fósforo",
+			"100","300"
+					]
+		},
+		"references" : 
+		{
+			"Componentes" : ["TelaFeedback","BAD"
+			]
+		}
+	}
+}

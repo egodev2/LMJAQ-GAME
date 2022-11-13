@@ -1,0 +1,22 @@
+{"packages" : [],	"class":
+	{
+		"type" : "Objeto",
+		"name" : "TextoIntrodutorio",
+		"properties" : 
+		{
+			"HashKeys" : [
+			"IU",
+			"conteudo",
+			"X","Y"
+					],
+			"HashValues" : [
+			"Texto",
+			"Julia, ao chegar no seu lar, se depara com um cheiro de ovo podre na cozinha. A caixa de energia fica fora de casa.",
+			"250","500"
+					]
+		},
+		"references" : 
+		{
+		}
+	}
+}
