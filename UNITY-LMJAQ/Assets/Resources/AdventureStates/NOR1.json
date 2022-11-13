@@ -1,0 +1,24 @@
+{"packages" : [],	"class":
+	{
+		"type" : "Estado",
+		"name" : "NOR1",
+		"properties" : 
+		{
+			"HashKeys" : [
+			"ProximoEstados",
+			"conteudo",
+			"conteudo",
+			"conteudo"
+					],
+			"HashValues" : [
+			"END BAD NOE00",
+			"SEU BOM",
+			"SEU RUIM",
+			"SEU NEUTRO"
+					]
+		},
+		"references" : 
+		{
+		}
+	}
+}

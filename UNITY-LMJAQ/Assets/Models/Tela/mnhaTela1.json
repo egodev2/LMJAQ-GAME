@@ -1,0 +1,15 @@
+{"package" : ["models.objetos.meuObjeto","models.objetos.meuObjeto12","models.imagens.minhaImagem"],
+	"class":
+	{
+		"type" : "AbstractClassType",
+		"name" : "mnhaTela1",
+		"properties" : 
+		{
+			"X" : 100.1,
+			"Y" : 12.4 
+					,
+			"Objeto" : ["meuObjeto","meuObjeto12"],
+			"Imagem" : ["minhaImagem"]
+		}
+	}
+}

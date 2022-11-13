@@ -1,0 +1,18 @@
+{"packages" : [],	"class":
+	{
+		"type" : "Estado",
+		"name" : "NOE01",
+		"properties" : 
+		{
+			"HashKeys" : [
+			"ProximoEstados"
+					],
+			"HashValues" : [
+			"BAD END"
+					]
+		},
+		"references" : 
+		{
+		}
+	}
+}

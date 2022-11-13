@@ -1,0 +1,20 @@
+{"packages" : [],	"class":
+	{
+		"type" : "Estado",
+		"name" : "INI000",
+		"properties" : 
+		{
+			"HashKeys" : [
+			"EstadoInicial",
+			"ProximoEstados"
+					],
+			"HashValues" : [
+			"True",
+			"NOR1"
+					]
+		},
+		"references" : 
+		{
+		}
+	}
+}

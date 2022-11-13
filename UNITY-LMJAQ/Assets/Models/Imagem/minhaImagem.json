@@ -1,0 +1,12 @@
+{"package" : [],	"class":
+	{
+		"type" : "AbstractClassType",
+		"name" : "minhaImagem",
+		"properties" : 
+		{
+			"Caminho" : "aaa /bbb/",
+								"Width"  : 300,
+			"Height" : 201 
+		}
+	}
+}
